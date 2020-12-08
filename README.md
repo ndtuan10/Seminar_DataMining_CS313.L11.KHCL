@@ -27,5 +27,7 @@ Lê Anh Minh | 18521098 | Thành viên
   - Output: Cho biết tiền lương của một người có được từ $50k trở lên không, nếu được thì cho ra kết quả “income_>50K” = 1, ngược lại nếu không được cho ra kết quả “income_>50K” = 0.
  
  ## Tiến trình
-- Colab
-  - [Do_an_Data_Mining](https://github.com/ndtuan10/Seminar_DataMining_CS313.L11.KHCL/blob/main/Do_an_Data_Mining.ipynb)
+- [Colab](https://github.com/ndtuan10/Seminar_DataMining_CS313.L11.KHCL/blob/main/Do_an_Data_Mining.ipynb)
+- [Presentation_Project](https://docs.google.com/presentation/d/1gqAFQ0lTCRUFoQ3vNPpK0b5BjUwNEsAp/edit#slide=id.p24)
+- [Word_Project](https://docs.google.com/document/d/1TJVuU-jmt_YQKLLk6hx6gaJAX062cSTtj6CeYvV9m6g/edit#heading=h.gjdgxs)
+- [Demo] (https://github.com/ndtuan10/Seminar_DataMining_CS313.L11.KHCL/blob/main/demo.py)
